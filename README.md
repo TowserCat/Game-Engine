@@ -1,1 +1,1 @@
-Put all the images into a folder named "images" before using them. (Theres 22 of them in case you need.)  Im also bery not done with this and will continue to work on it.
+Put all the images into a folder named "images" before using them. (Theres 22 of them in case you need.)  Im also bery not done with this and will continue to work on it. Also, to reset, you have to reload the page. f5 works well with that.  (Hit alt+f4 for an easter egg)
